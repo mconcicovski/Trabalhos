@@ -18,7 +18,7 @@ n=0;
 
 for n=1:Nmax
     %z=x-(f(x)/G(x))
-    z=a-((a^2-2)/(2*a));        %Função de Newton, colocar aki a equação
+    z=a-((a^2-2)/(2*a));        %Função de Newton, colocar aki a equaçãoa
     %que se deseja achar o zero, só ao invéz de X colocar a
     
     teste= abs(z);
